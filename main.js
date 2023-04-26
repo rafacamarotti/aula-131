@@ -9,7 +9,7 @@
     image(img, 0, 0 ,640 ,420);
     fill(255, 0, 0);
     text("dog", 45, 75);
-    nofill();
+    noFill();
     stroke(255, 0, 0);
     rect(30, 60, 450, 350);
  }
