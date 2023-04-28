@@ -29,6 +29,6 @@
     fill("#FF0000");
     text("cat", 320,120);
     noFill();
-    stroke("FF0000");
+    stroke("#FF0000");
     rect(300, 90, 270, 320);
  }
